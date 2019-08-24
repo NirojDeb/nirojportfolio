@@ -1,0 +1,67 @@
+body{background-color:#ebfffb;
+margin: 0;
+text-align: center;}
+.top-div{background-color: #ebfffb;
+  padding-top: 100px;
+
+}
+
+h1{
+  font-family: 'Pinyon Script', cursive;
+  font-size: 50px;
+
+}
+
+
+
+
+p{
+  font-family: 'Roboto', sans-serif;
+}
+.top-div{
+  text-align: center;
+  position: relative;
+  margin-top: 30px;
+  margin-bottom: 0;
+  padding-bottom: 0;
+}
+
+.top-cloud{position: absolute;
+  right:200px;
+  top: 50px;
+
+}
+.bottom-cloud{
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+.mountain{
+  background-color: #ebfffb;
+}
+
+.middle-container{
+  margin: 0;
+  padding:0;
+  }
+  .skills{
+    margin:0;
+    padding:0;
+    border: 0;
+  }
+.bottom-div{}
+
+.profilepic{
+  height:400px;
+  width:400px;
+  border-radius: 50%;
+  padding-top: 30px;
+}
+.python{
+  height:100px;
+  width:100px;
+}
+#pyt{
+  padding-left: 30px;
+  padding right:30px;
+}
